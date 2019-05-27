@@ -1,3 +1,3 @@
 # Kafka_Streaming_Visualisation
 
-This project implements Apache Kafka producer and Apache Kafka consumer to simulate streaming data.  
+This project implements a Apache Kafka producer and a Apache Kafka consumer to simulate streaming data.  
